@@ -28,6 +28,7 @@ My focus is not AI for automation alone. I am interested in product systems wher
 
 | Project | Product Angle | What It Shows |
 |---|---|---|
+| [AI Product Case Studies](https://github.com/emredemir-maker/ai-product-case-studies) | Public product case studies | Lessons from private AI product work without exposing code, customer data, or internal business logic |
 | [Think-Inn Ecosystem](https://github.com/emredemir-maker/Think-Inn-Ecosystem) | AI-supported innovation platform | Idea capture, research matching, product opportunity mapping, AI-assisted prioritization |
 | [TalentFlow](https://github.com/emredemir-maker/TalentFlow) | AI-supported recruitment operations | Candidate workflows, structured evaluation, human-in-the-loop decision support |
 | [Derm-Ai V1](https://github.com/emredemir-maker/Derm-Ai-V1) | Sensitive-domain AI UX prototype | Visual input handling, responsible AI framing, safety-first mobile product thinking |
@@ -55,7 +56,11 @@ The real product value starts when AI helps the right person make a better decis
 
 Some of my most valuable work is in private repositories connected to real product, customer experience, chatbot, QA, verification, internal assistant, and customer operations systems.
 
-I share selected learnings from these projects as product case studies without exposing private code, customer data, or internal business logic.
+I share selected learnings from these projects as public product case studies without exposing private code, customer data, or internal business logic.
+
+Current public case study:
+
+- [QA-Inn: AI-supported QA testing console](https://github.com/emredemir-maker/ai-product-case-studies/blob/main/qa-inn.md)
 
 ---
 
